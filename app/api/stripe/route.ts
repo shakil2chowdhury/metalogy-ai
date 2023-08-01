@@ -43,7 +43,7 @@ export async function GET() {
                         currency: "USD",
                         product_data: {
                             name: "Metalogy AI",
-                            description: "Limitless AI Genrations"
+                            description: "Limitless AI Generations"
                         },
                         unit_amount: 2000,
                         recurring: {
